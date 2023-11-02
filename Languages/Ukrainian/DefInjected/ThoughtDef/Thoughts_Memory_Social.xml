@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Flirted.stages.0.label>флірт</VRE_Flirted.stages.0.label>
+  <VRE_WhatAPerfectBody.stages.0.label>я в захваті від {0_gender ? її: його}тіла.</VRE_WhatAPerfectBody.stages.0.label>
+
+  <VRE_GotSomeLovin.stages.0.label>деяка закоханість</VRE_GotSomeLovin.stages.0.label>
+  <VRE_GotSomeLovin.stages.0.description>Ніщо так не піднімає настрій, як разом валятися в ліжку.</VRE_GotSomeLovin.stages.0.description>
+
+
+</LanguageData>

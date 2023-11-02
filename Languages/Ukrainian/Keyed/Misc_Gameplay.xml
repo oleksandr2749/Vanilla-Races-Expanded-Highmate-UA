@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <VRE_EnableCatHighmates>Увімкнути "Котячі гени" у коханців (потребує перезапуск гри)</VRE_EnableCatHighmates>
+  <VRE_EnableCatHighmatesDescription>Вимкнення цього перемикача призведе до того, що новостворені коханці з'являтимуться без генів котячих вух і хвоста. Майте на увазі, що це не вплине на вже існуючих коханців.</VRE_EnableCatHighmatesDescription>
+  <VRE_NotEnoughLovin>Вимагання кохання</VRE_NotEnoughLovin>
+  <VRE_LovinNeed>Потреба кохання</VRE_LovinNeed>
+  <VRE_LovinNeedDesc>У цих людей занадто низьке втамування кохання (менше 50%). Якщо вони досягнуть 0% кохання протягом приблизно 15 днів, вони спробують покинути колонію:\n\n{0}</VRE_LovinNeedDesc>
+  <VRE_MessageCantUseLovinOnOtherFactions>Ця здатність не може бути використана на членах інших фракцій</VRE_MessageCantUseLovinOnOtherFactions>
+  <VRE_MessageCantUseLovinOnResistingPersons>Ця здатність не може бути використана на ворогів</VRE_MessageCantUseLovinOnResistingPersons>
+  <VRE_CantUseLovinLowOpinion>{0} не може зайнятися сексом з {1}, оскільки {1} має занадто низьку думку про {0} (Думка {0}: {2})</VRE_CantUseLovinLowOpinion>
+  <VRE_TooYoungForLovin>{0} не може зайнятися сексом з {1}, оскільки {1} занадто молодий.</VRE_TooYoungForLovin>
+  <VRE_TooYoungForLovinCaster>{0} не може зайнятися сексом з {1}, оскільки {0} занадто молодий.</VRE_TooYoungForLovinCaster>
+  <VRE_CantUseLovinWithTraitAsexual>{0} не може зайнятися сексом з {1}, оскільки {1} не цікавить секс.</VRE_CantUseLovinWithTraitAsexual>
+  <VRE_CantUseLovinWithTraitPrude>{0} не може зайнятися сексом з {1}, оскільки {1} соромиться сексу.</VRE_CantUseLovinWithTraitPrude>
+  <VRE_RelationshipWillBreak>{0} займеться сексом з {1}, незважаючи на те, що перебуває у стосунках з {2}. Це призведе до їх розриву.</VRE_RelationshipWillBreak>
+  <VRE_RelationshipWillBreakTarget>{0} займеться сексом з {1}, незважаючи на те, що {1} перебуває у стосунках з {2}. Це призведе до їх розриву.</VRE_RelationshipWillBreakTarget>
+  <VRE_CantUseOnFamily>{0} не може зайнятися сексом з {1}, оскільки це інцест.</VRE_CantUseOnFamily>
+  <VRE_PsychicConceptionDesc>Психічне зачаття (вагітність гарантована)</VRE_PsychicConceptionDesc>
+  <VRE_LovinForPleasureDesc>Секс заради задоволення (ймовірність вагітності x0%)</VRE_LovinForPleasureDesc>
+  <VRE_NoPsychicConceptionDesc>Ніякого психічного зачаття</VRE_NoPsychicConceptionDesc>
+  <VRE_NoLovinForPleasureDesc>Звичайний секс</VRE_NoLovinForPleasureDesc>
+  <VRE_AwardedHighmate>Нагороджена коханка</VRE_AwardedHighmate>
+  <VRE_AwardedHighmateDesc>Завдяки новопридбаному рангу барона, Імперія нагородила {0} коханкою, що негайно приєднається до колонії.\n\nСпроектовані партнери і наложниці з унікальною здатністю до психічного зв'язку з партнером, коханці емпатичні, красиві, веселі і талановиті в соціальних питаннях. Вони також не вміють виконувати ручну роботу, фізично слабкі і психічно не здатні до насильства.</VRE_AwardedHighmateDesc>
+
+</LanguageData>

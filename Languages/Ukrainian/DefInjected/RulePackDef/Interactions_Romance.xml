@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] {0_gender ? подякував: подяквала} [INITIATOR_nameDef].</VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.0>
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] грайливо {0_gender ? засміявся: засміялася} з [INITIATOR_nameDef].</VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.1>
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] {0_gender ? збудився і подякував: збудилася і подякувала} [INITIATOR_nameDef] за милощі.</VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings.2>
+
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] {0_gender ? знехтував: знехтувала} милощами.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.0>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef] {0_gender ? знехтував: знехтувала} залицяннями.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.1>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.2>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef] {0_gender ? відвернувся: відвернулася}.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.3>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef] {0_gender ? дав: дала} не зацікавлену відповідь.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.4>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef] не {0_gender ? відповів: відповіла}.</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.5>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef] {0_gender ? вилаявся: вилаялась} на [INITIATOR_objective].</VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings.6>
+
+
+</LanguageData>

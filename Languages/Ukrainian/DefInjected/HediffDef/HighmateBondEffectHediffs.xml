@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_PsychicBondBloodlust.label>Психічний зв'язок (Воїни)</VRE_PsychicBondBloodlust.label>
+  <VRE_PsychicBondBloodlust.description>Both psychically-bonded individuals benefit from increased melee damage at the cost of violent mental breaks.</VRE_PsychicBondBloodlust.description>
+
+  <VRE_PsychicBondFastLearner.label>Психічний зв'язок (Учні)</VRE_PsychicBondFastLearner.label>
+  <VRE_PsychicBondFastLearner.description>Both psychically-bonded individuals benefit from increased skill learning speed.</VRE_PsychicBondFastLearner.description>
+
+  <VRE_PsychicBondIndustrious.label>Психічний зв'язок (Працівники)</VRE_PsychicBondIndustrious.label>
+  <VRE_PsychicBondIndustrious.description>Both psychically-bonded individuals benefit from increased work speed.</VRE_PsychicBondIndustrious.description>
+
+  <VRE_PsychicBondSanguine.label>Психічний зв'язок (Оптимісти)</VRE_PsychicBondSanguine.label>
+  <VRE_PsychicBondSanguine.description>Both psychically-bonded individuals benefit from increased happiness.</VRE_PsychicBondSanguine.description>
+
+  <VRE_PsychicBondIronWilled.label>Психічний зв'язок (Хоробрі)</VRE_PsychicBondIronWilled.label>
+  <VRE_PsychicBondIronWilled.description>Both psychically-bonded individuals benefit from increased having a lower mental break threshold.</VRE_PsychicBondIronWilled.description>
+
+  <VRE_PsychicBondCarefulShooter.label>Психічний зв'язок (Мисливці)</VRE_PsychicBondCarefulShooter.label>
+  <VRE_PsychicBondCarefulShooter.description>Both psychically-bonded individuals benefit from increased ranged weapon accuracy.</VRE_PsychicBondCarefulShooter.description>
+
+  <VRE_PsychicBondPsychicallyHypersensitive.label>Психічний зв'язок (Психічні)</VRE_PsychicBondPsychicallyHypersensitive.label>
+  <VRE_PsychicBondPsychicallyHypersensitive.description>Both psychically-bonded individuals benefit from greatly increased psychic sensitivity.</VRE_PsychicBondPsychicallyHypersensitive.description>
+
+  <VRE_PsychicBondGreatMemory.label>Психічний зв'язок (Мудрі)</VRE_PsychicBondGreatMemory.label>
+  <VRE_PsychicBondGreatMemory.description>Both psychically-bonded individuals benefit from greatly lowered skill loss rate.</VRE_PsychicBondGreatMemory.description>
+
+  <VRE_PsychicBondAbrasive.label>Психічний зв'язок (Грубі)</VRE_PsychicBondAbrasive.label>
+  <VRE_PsychicBondAbrasive.description>Both psychically-bonded individuals benefit from being able to contain their abrasive words.</VRE_PsychicBondAbrasive.description>
+
+
+</LanguageData>

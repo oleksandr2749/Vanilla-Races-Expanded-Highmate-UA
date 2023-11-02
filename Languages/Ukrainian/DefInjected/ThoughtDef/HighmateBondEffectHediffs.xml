@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_PsychicBondSanguine.stages.0.label>Психічний зв'язок (Оптимістичний)</VRE_PsychicBondSanguine.stages.0.label>
+  <VRE_PsychicBondSanguine.stages.0.description>Я {0_gender ? щасливий: щаслиива}, що {0_gender ? зустрів її: зустріла його}.</VRE_PsychicBondSanguine.stages.0.description>
+
+
+</LanguageData>

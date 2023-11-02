@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Flirty.degreeDatas.0.label>кокетливість</VRE_Flirty.degreeDatas.0.label>
+  <VRE_Flirty.degreeDatas.0.description>{PAWN_nameDef} завжди {0_gender ? готовий: готова} зробитии грайливий комплімент, піднімаючи настрій оточуючим  {PAWN_objective}. {PAWN_pronoun} вміє добре залицятися, від чого інші відчуватимуть себе привабливими та важливими, проте іноді це може призвести до неприємних ситуацій, коли грайливі наміри  {PAWN_pronoun} можуть зрозуміти неправильно.</VRE_Flirty.degreeDatas.0.description>
+
+  <VRE_Distressed.degreeDatas.0.label>співчуття</VRE_Distressed.degreeDatas.0.label>
+  <VRE_Distressed.degreeDatas.0.description>{PAWN_nameDef} дуже {0_gender ? співчутливий: співчутлива} до страждань інших. Щоразу, коли {PAWN_pronoun} бачить біль або труднощі іших, це сильно впливає на {PAWN_objective}, від чого спогади про це довгий час переслідуватимуть {PAWN_nameDef}.</VRE_Distressed.degreeDatas.0.description>
+
+
+</LanguageData>
